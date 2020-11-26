@@ -1,0 +1,22 @@
+16_clients
+######################### DEPLOY #########################
+/home/jcernudagarcia/software/install/python/lib/python3.7/site-packages/pssh/pssh_client.py:26: UserWarning: Importing from pssh.pssh_client is deprecated. Please update to from pssh.clients import ParallelSSHClient for the default client, or pssh.clients.miko import ParallelSSHClient to continue using the paramiko client only instead.
+  warn(msg)
+/home/jcernudagarcia/software/install/python/lib/python3.7/site-packages/pssh/clients/miko/parallel.py:46: UserWarning: This client has been replaced as the default client by pssh.clients.native.ParallelSSHClient and will be _removed_ from 2.0.0 onwards.
+Please ensure required functionality is supported by the new client by switching to 'from pssh.clients import ParallelSSHClient' and if not pin version requirements to <2.0.0.
+
+
+  warn(_msg)
+/home/jcernudagarcia/software/install/python/lib/python3.7/site-packages/pssh/clients/base/parallel.py:388: UserWarning: get_exit_codes is deprecated and will be removed in 2.0.0
+  warn("get_exit_codes is deprecated and will be removed in 2.0.0")
+######################### CLIENT #########################
+######################### CLEAN #########################
+/home/jcernudagarcia/software/install/python/lib/python3.7/site-packages/pssh/pssh_client.py:26: UserWarning: Importing from pssh.pssh_client is deprecated. Please update to from pssh.clients import ParallelSSHClient for the default client, or pssh.clients.miko import ParallelSSHClient to continue using the paramiko client only instead.
+  warn(msg)
+/home/jcernudagarcia/software/install/python/lib/python3.7/site-packages/pssh/clients/miko/parallel.py:46: UserWarning: This client has been replaced as the default client by pssh.clients.native.ParallelSSHClient and will be _removed_ from 2.0.0 onwards.
+Please ensure required functionality is supported by the new client by switching to 'from pssh.clients import ParallelSSHClient' and if not pin version requirements to <2.0.0.
+
+
+  warn(_msg)
+/home/jcernudagarcia/software/install/python/lib/python3.7/site-packages/pssh/clients/base/parallel.py:388: UserWarning: get_exit_codes is deprecated and will be removed in 2.0.0
+  warn("get_exit_codes is deprecated and will be removed in 2.0.0")
